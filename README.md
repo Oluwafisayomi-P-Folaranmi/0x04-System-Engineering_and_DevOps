@@ -1,3 +1,3 @@
-# alx-system_engineering-devops
+# This is the README.md file
 
-This repository contains informations on the devops for ALX software engineering programme.
+This repository contains informations on systems engineering development.
